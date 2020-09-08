@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cinful79/jest-another-RPG.git"
+    "url": "https://github.com/cinful79/jest-another-RPG"
   },
   "author": "Cindy Bonilla",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cinful79/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/cinful79/jest-another-RPG#readme",
+  "homepage": "https://github.com/cinful79/jest-another-RPG/blob/master/README.md",
   "devDependencies": {
     "jest": "^26.4.2"
   }
